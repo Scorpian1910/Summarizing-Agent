@@ -121,7 +121,9 @@ App will be available at `http://localhost:3000`
 
 ## 📸 Preview
 
-![screenshot](https://user-images.githubusercontent.com/your-github-id/csv-summarizer-ui.png)
+![screenshot](https://github.com/Scorpian1910/Summarizing-Agent/blob/main/project/public/assets/SummarizingImg1.png?raw=true)
+
+![](https://github.com/Scorpian1910/Summarizing-Agent/blob/main/project/public/assets/SummarizingImg2.png?raw=true)
 
 ---
 
